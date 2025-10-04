@@ -97,3 +97,103 @@ Bathrooms: 6
 Buyer Name: Hassan Ali
 Seller Name: Green Valley Properties
 Date: 2024-12-30
+
+Property ID: AUTO11
+Location: Jumeirah Beach Residence
+Price: 3,800,000 AED
+Size (sqft): 2000
+Bedrooms: 3
+Bathrooms: 3
+Buyer Name: Lina George
+Seller Name: Coastal Homes Realty
+Date: 2025-10-01
+
+Property ID: AUTO12
+Location: Dubai Creek Harbour
+Price: 2,100,000 AED
+Size (sqft): 1250
+Bedrooms: 2
+Bathrooms: 2
+Buyer Name: Omar Farouk
+Seller Name: Skyline Properties
+Date: 2025-09-12
+
+Property ID: AUTO13
+Location: Dubai Silicon Oasis
+Price: 850,000 AED
+Size (sqft): 750
+Bedrooms: 1
+Bathrooms: 1
+Buyer Name: Aisha Khan
+Seller Name: Tech Haven Realty
+Date: 2025-08-28
+
+Property ID: AUTO14
+Location: Al Quoz
+Price: 1,400,000 AED
+Size (sqft): 1400
+Bedrooms: 2
+Bathrooms: 2
+Buyer Name: David Lee
+Seller Name: Urban Edge Properties
+Date: 2025-07-19
+
+Property ID: AUTO15
+Location: Motor City
+Price: 950,000 AED
+Size (sqft): 900
+Bedrooms: 1
+Bathrooms: 1
+Buyer Name: Fatima Al Saeed
+Seller Name: Fast Lane Realty
+Date: 2025-06-03
+
+Property ID: AUTO16
+Location: Dubai Investment Park
+Price: 1,700,000 AED
+Size (sqft): 1500
+Bedrooms: 3
+Bathrooms: 2
+Buyer Name: Karim Patel
+Seller Name: DIP Properties
+Date: 2025-05-22
+
+Property ID: AUTO17
+Location: Business Bay
+Price: 1,300,000 AED
+Size (sqft): 1100
+Bedrooms: 2
+Bathrooms: 2
+Buyer Name: Sara Ali
+Seller Name: Future Homes Realty
+Date: 2025-04-14
+
+Property ID: AUTO18
+Location: Downtown Dubai
+Price: 2,900,000 AED
+Size (sqft): 1550
+Bedrooms: 3
+Bathrooms: 3
+Buyer Name: Michael Johnson
+Seller Name: Smart Properties LLC
+Date: 2025-03-01
+
+Property ID: AUTO19
+Location: Dubai Marina
+Price: 2,750,000 AED
+Size (sqft): 1600
+Bedrooms: 3
+Bathrooms: 2
+Buyer Name: Reema Shah
+Seller Name: Marina Heights Real Estate
+Date: 2025-02-12
+
+Property ID: AUTO20
+Location: Palm Jumeirah
+Price: 7,200,000 AED
+Size (sqft): 3800
+Bedrooms: 4
+Bathrooms: 5
+Buyer Name: Hassan Omar
+Seller Name: Ocean View Properties
+Date: 2025-01-25
