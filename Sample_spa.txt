@@ -1,0 +1,99 @@
+Property ID: AUTO1
+Location: Downtown Dubai
+Price: 1,500,000 AED
+Size (sqft): 1200
+Bedrooms: 2
+Bathrooms: 2
+Buyer Name: John Doe
+Seller Name: Smart Properties LLC
+Date: 2025-09-20
+
+Property ID: AUTO2
+Location: Dubai Marina
+Price: 2,300,000 AED
+Size (sqft): 1500
+Bedrooms: 3
+Bathrooms: 3
+Buyer Name: Sarah Ahmed
+Seller Name: Marina Heights Real Estate
+Date: 2025-08-15
+
+Property ID: AUTO3
+Location: Business Bay
+Price: 1,100,000 AED
+Size (sqft): 950
+Bedrooms: 1
+Bathrooms: 1
+Buyer Name: Ali Hassan
+Seller Name: Future Homes Realty
+Date: 2025-07-10
+
+Property ID: AUTO4
+Location: Palm Jumeirah
+Price: 6,800,000 AED
+Size (sqft): 3500
+Bedrooms: 4
+Bathrooms: 5
+Buyer Name: Maria Gonzalez
+Seller Name: Ocean View Properties
+Date: 2025-06-05
+
+Property ID: AUTO5
+Location: Jumeirah Village Circle
+Price: 950,000 AED
+Size (sqft): 800
+Bedrooms: 1
+Bathrooms: 1
+Buyer Name: Ahmed Khan
+Seller Name: Urban Nest Realty
+Date: 2025-05-02
+
+Property ID: AUTO6
+Location: Arabian Ranches
+Price: 3,200,000 AED
+Size (sqft): 2800
+Bedrooms: 4
+Bathrooms: 4
+Buyer Name: Fatima Noor
+Seller Name: Desert Sands Real Estate
+Date: 2025-04-18
+
+Property ID: AUTO7
+Location: Al Barsha
+Price: 1,800,000 AED
+Size (sqft): 1600
+Bedrooms: 3
+Bathrooms: 3
+Buyer Name: Michael Smith
+Seller Name: Cityscape Properties
+Date: 2025-03-09
+
+Property ID: AUTO8
+Location: Meydan
+Price: 4,500,000 AED
+Size (sqft): 3100
+Bedrooms: 5
+Bathrooms: 5
+Buyer Name: Ramesh Patel
+Seller Name: Prime Location Realty
+Date: 2025-02-27
+
+Property ID: AUTO9
+Location: Downtown Dubai
+Price: 2,600,000 AED
+Size (sqft): 1450
+Bedrooms: 2
+Bathrooms: 2
+Buyer Name: Emily Johnson
+Seller Name: Smart Properties LLC
+Date: 2025-01-14
+
+Property ID: AUTO10
+Location: Dubai Hills
+Price: 5,900,000 AED
+Size (sqft): 4000
+Bedrooms: 5
+Bathrooms: 6
+Buyer Name: Hassan Ali
+Seller Name: Green Valley Properties
+Date: 2024-12-30
